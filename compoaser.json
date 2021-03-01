@@ -1,0 +1,13 @@
+{
+    "name": "magento/packagist-test",
+    "version": "0.0.1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Keith Bentrup",
+            "email": "kbentrup@adobe.com"
+        }
+    ],
+    "require": {}
+}
+
